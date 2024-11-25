@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sgmsmq7f8-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sgmsmq7f8-python
